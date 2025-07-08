@@ -1,7 +1,5 @@
 # SQL Import Tool
 
-# SQL Import Tool
-
 Công cụ Python để import file SQL vào MySQL database với khả năng tự động chia nhỏ file lớn để tránh timeout.
 
 ## Tính năng
@@ -29,7 +27,7 @@ File `config/database.yaml` đã được cấu hình:
 host: 10.10.8.20
 user: root
 password: root
-database: mythaco_staging_v2
+database: your_database
 port: 3306
 ```
 
