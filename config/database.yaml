@@ -1,0 +1,6 @@
+# host: localhost
+host: 10.10.8.20
+user: root
+password: root
+database: mythaco_staging_v2
+port: 3306
